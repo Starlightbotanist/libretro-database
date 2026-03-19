@@ -581,7 +581,7 @@ game (
 
 game (
 	comment "Jansei (Japan)"
-	developer "SCEE"
+	developer "Sony Computer Entertainment Europe"
 	rom (
 		crc 00B8E82E
 	)
@@ -589,7 +589,7 @@ game (
 
 game (
 	comment "Jansei (Japan) (Alt 1)"
-	developer "SCEE"
+	developer "Sony Computer Entertainment Europe"
 	rom (
 		crc 2C2924ED
 	)
