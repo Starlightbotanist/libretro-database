@@ -1201,5 +1201,5 @@ cheat299_code = "D10A1F84 0000"
 cheat299_enable = false
 
 cheat300_desc = "Widescreen 16-9"
-cheat300_code = "D1178BF6 3F00+81178BF6 3F1C+D1178C16 3F00+81178C16 3F1C"
+cheat300_code = "D1178BF6 3F00+81178BF6 3F1B+D1178C16 3F00+81178C16 3F1B"
 cheat300_enable = false
